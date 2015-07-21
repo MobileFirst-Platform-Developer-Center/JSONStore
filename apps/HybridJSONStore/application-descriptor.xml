@@ -9,7 +9,7 @@
 	INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE. 
 	IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
 
- --><application xmlns="http://www.worklight.com/application-descriptor" id="HybridJSONStore" platformVersion="7.1.0.00.20150630-0631">
+ --><application xmlns="http://www.worklight.com/application-descriptor" id="HybridJSONStore" platformVersion="7.1.0.00.20150720-0631">
     <displayName>HybridJSONStore</displayName>
     <description>HybridJSONStore</description>
     <author>

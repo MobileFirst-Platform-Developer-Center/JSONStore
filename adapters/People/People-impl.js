@@ -33,7 +33,7 @@ function pushPeople(data) {
 	//and examples regarding contacting a back-end service
 
 	WL.Logger.debug('Adapter: people, procedure: pushPeople called.');
-	WL.Logger.debug('Got data from JSONStore to ADD: ' + data);
+	WL.Logger.debug('Got data from JSONStore to ADD: ' + JSON.stringify(data));
 
 	return;
 }
@@ -47,7 +47,7 @@ function addPerson(data) {
 	//and examples regarding contacting a back-end service
 
 	WL.Logger.debug('Adapter: people, procedure: addPerson called.');
-	WL.Logger.debug('Got data from JSONStore to ADD: ' + data);
+	WL.Logger.debug('Got data from JSONStore to ADD: ' + JSON.stringify(data));
 
 	return;
 }
@@ -61,7 +61,7 @@ function removePerson(data) {
 	//and examples regarding contacting a back-end service
 
 	WL.Logger.debug('Adapter: people, procedure: removePerson called.');
-	WL.Logger.debug('Got data from JSONStore to REMOVE: ' + data);
+	WL.Logger.debug('Got data from JSONStore to REMOVE: ' + JSON.stringify(data));
 
 	return;
 }
@@ -75,7 +75,7 @@ function replacePerson(data) {
 	//and examples regarding contacting a back-end service
 
 	WL.Logger.debug('Adapter: people, procedure: replacePerson called.');
-	WL.Logger.debug('Got data from JSONStore to REPLACE: ' + data);
+	WL.Logger.debug('Got data from JSONStore to REPLACE: ' + JSON.stringify(data));
 
 	return;
 }

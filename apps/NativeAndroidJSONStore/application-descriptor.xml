@@ -9,7 +9,7 @@
 	INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE. 
 	IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
 
- --><nativeAndroidApp xmlns="http://www.worklight.com/native-android-descriptor" id="NativeAndroidJSONStore" platformVersion="7.1.0.00.20150630-0631" version="1.0">
+ --><nativeAndroidApp xmlns="http://www.worklight.com/native-android-descriptor" id="NativeAndroidJSONStore" platformVersion="7.1.0.00.20150720-0631" version="1.0">
 	
 	<displayName>NativeAndroidJSONStore</displayName>
 	<description>NativeAndroidJSONStore</description>
